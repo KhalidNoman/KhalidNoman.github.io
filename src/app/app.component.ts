@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'test';
+  title = 'Khalid Noman';
+  sideNav = false;
+
+  menuClick(){
+    this.sideNav = !this.sideNav;
+  }
+
 }

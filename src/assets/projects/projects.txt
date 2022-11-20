@@ -1,0 +1,34 @@
+Language Translator (Compiler)
+!description
+!Java, NASM, Table Driven Problem solver, Finite State Automata, Push Down Automata 
+!presentation
+!https://github.com/KhalidNoman/LanguageTranslator
+!imgs
+
+!Coding Application
+!description
+!Java for Android 
+!presentation
+!https://github.com/KhalidNoman/codingApplication
+!imgs
+
+!Clinic Mobile/Desktop Application Development
+!description
+!Java, Java Swing, JavaFX, C#, Xamarin
+!presentation
+!github
+!imgs
+
+!FingerprintApp
+!description
+!Java, Java Swing, Java for Android
+!presentation
+!github
+!imgs
+
+!BanTrack
+!description
+!Java, Java Swing
+!presentation
+!github
+!imgs
