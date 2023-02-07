@@ -1,0 +1,41 @@
+takamul.jpg
+!Takamul Smart Technology
+!Software Developer Intern
+!Oct 2021
+!Dec 2021
+!Full Stack Developer with a concentration in Front End Development. Used web development technologies, source control, and work management software to work as a team
+
+!shsu.jpg
+!Sam Houston State University
+!Volunteer Student Researcher
+!Jan 2021
+!Jun 2021
+!The development of a mobile device code editor is proposed to reduce the struggles and frustration experienced by CS students in their first programming course. It is a dire need to develop a mobile editor that (1) facilitates the understanding of programming concepts, (2) automatically generates programming statements and the related syntax, (3) minimizes the time spent on fixing the errors, and (4) shows the results immediately
+
+!shsu.jpg
+!Sam Houston State University
+!Student Researcher
+!Jan 2021
+!Jun 2021
+!Part of a research team under the Sam Houston State University Department of Computer Science tasked with the "Development of an Intelligent Mobile Application to Enhance the Quality of Latent Fingerprint Acquisition". Research was done in association with the Cyber Forensics Intelligence Center and Department of Forensic Science. The research was then selected to be presented at the 72nd American Academy of Forensic Sciences Annual Scientific Meeting, 2020 in Anaheim California
+
+!skin.jpg
+!Skin Essentials Medical Clinics
+!Application Enhancement 
+!Jun 2019
+!Jun 2021
+!Worked with clinic staff and application provider to enhance the system that clinic currently uses. Helped application provider more accurately customize the system to the clinics needs
+
+!skin.jpg
+!Skin Essentials Medical Clinics
+!Information Technology Assistant 
+!May 2017
+!Jun 2019
+!In charge of designing, creating, and maintaining the clinics website. Diagnosing/troubleshooting any technological faults the clinic faces
+
+!microsoft.jpg
+!Microsoft
+!Promoter
+!May 2013
+!Jun 2013
+!Demonstrated the features of various Microsoft products to customers, including Microsoft Windows, Microsoft Office, XBOX 360, and XBOX One
