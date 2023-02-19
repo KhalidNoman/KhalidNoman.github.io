@@ -14,6 +14,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 
 import { HttpClientModule } from '@angular/common/http';
+import { CertificatesComponent } from './certificates/certificates.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { HttpClientModule } from '@angular/common/http';
     AppComponent,
     HomeComponent,
     ExperienceComponent,
-    ProjectsComponent
+    ProjectsComponent,
+    CertificatesComponent
 
   ],
   imports: [

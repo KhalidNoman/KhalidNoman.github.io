@@ -1,0 +1,11 @@
+<div>
+  <mat-card *ngFor="let text of certifications" matRipple matRippleColor="accent">
+    <img src={{text.img}} alt="{{text.img}}">
+    <mat-card-title>{{text.title}}</mat-card-title>
+    <mat-card-subtitle>{{text.issuer}}</mat-card-subtitle>
+    <mat-card-content>
+      <p>{{text.desc}}</p>
+    </mat-card-content>
+    <mat-card-footer></mat-card-footer>
+  </mat-card>
+</div>

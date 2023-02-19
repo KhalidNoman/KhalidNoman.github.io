@@ -1,33 +1,43 @@
 Language Translator (Compiler)
-!description
-!Java, NASM, Table Driven Problem solver, Finite State Automata, Push Down Automata 
+!Full language translator developed to compile a Java 0 like language
+Used Finite State Automaton, Push Down Automata, and Table-Driven
+Problem Solving
+!Java, NASM, Table Driven Problem solver, Finite State Automata, Push Down Automata
 !presentation
 !https://github.com/KhalidNoman/LanguageTranslator
 !imgs
 
 !Coding Application
-!description
-!Java for Android 
+!Application was designed to encourage people new to programming to
+experiment and learn coding skills
+!Java for Android
 !presentation
 !https://github.com/KhalidNoman/codingApplication
 !imgs
 
 !Clinic Mobile/Desktop Application Development
-!description
+!Application made use of C# and Xamarin for the mobile application and Java
+for the desktop application
+Microsoft Azure was used to host the database as portability was a necessity
 !Java, Java Swing, JavaFX, C#, Xamarin
-!presentation
-!github
+!SEPoster.png
+!https://github.com/KhalidNoman/SkinEssentialsPC
 !imgs
 
 !FingerprintApp
-!description
+!Group tasked with designing a mobile application capable of assisting law
+enforcement in fingerprint collection
+Application developed in Java made use of SourceAFIS to score and match
+fingerprints
+Desktop application was developed to receive images from mobile
+application to find a match from a database
 !Java, Java Swing, Java for Android
-!presentation
-!github
+!AAFSPresentation.png
+!https://github.com/N0th1ng18/FingerPrintApp
 !imgs
 
 !BanTrack
-!description
+!Basic Java application that made use of a friendly UI to preform actions on a database
 !Java, Java Swing
 !presentation
 !github

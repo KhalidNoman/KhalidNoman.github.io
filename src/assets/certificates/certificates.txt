@@ -1,0 +1,44 @@
+MISK.png
+!MISK
+!Future Path Career Essentials Program
+!This program is the bridge between education and the labor market. The program paves your way to master the high in-demand skills in the labor market and build a successful career.
+
+!Access.png
+!Certiport
+!Microsoft Office Specialist: Microsoft Access Expert (Office 2019)
+!This certification demonstrates competency in database design principles.
+
+!HTMLCSS.png
+!Certiport
+!Information Technology Specialist in HTML and CSS
+!Demonstrated that they can structure a webpage using HTML elements and create and apply styles using CSS.
+
+!Javascript.png
+!Certiport
+!Information Technology Specialist in Javascript
+!Demonstrated that they can recognize, write, and debug JavaScript code that will logically solve a problem.
+
+!SoftwareDevelopment.png
+!Certiport
+!Information Technology Specialist in Software Development
+!Demonstrated core software development skills, including object-oriented programming, web applications, and databases.
+
+!HTML5.png
+!Certiport
+!Information Technology Specialist in HMTL5 Application Development
+!Demonstrated ability to use HTML5, CSS, and JavaScript to build responsive web applications that will run on a variety of touch-enabled devices, including PCs, tablets, and phones.
+
+!Devices.png
+!Certiport
+!Information Technology Specialist in Device Configuration and Management
+!Demonstrated foundational skills in, and a basic knowledge of, Windows devices and mobility.
+
+!NetworkSecurity.png
+!Certiport
+!Information Technology Specialist in Network Security
+!Demonstrated foundational security knowledge and skills, including an understanding of core security principles operating system security, network and device security, and secure computing practices.
+
+!Networking.png
+!Certiport
+!Information Technology Specialist in Networking
+!Demonstrated foundational networking knowledge and skills, including TCP/IP, networking services, networking topologies, and troubleshooting in wired and wireless environments.

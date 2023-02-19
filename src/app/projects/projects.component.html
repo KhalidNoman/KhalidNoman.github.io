@@ -1,15 +1,16 @@
 <div>
-  <mat-card *ngFor="let text of projs">
+  <mat-card *ngFor="let text of projs" >
       <mat-card-header>
           <mat-card-title>{{text.title}}</mat-card-title>
           <mat-card-subtitle>{{text.technologies}}</mat-card-subtitle>
       </mat-card-header>
       <mat-card-content>
-          {{text.desc}}
-      </mat-card-content>
-      <mat-card-actions align="start">
-          <a mat-raised-button href={{text.github}} target="_blank" title={{text.github}}>Go to GitHub page</a>
+          <p>{{text.desc}}</p>
+          <div *ngIf="text.presentation"><img src="../../assets/projects/imgs/{{text.presentation}}" alt="" style="width: 90vw;"></div>
 
-      </mat-card-actions>
+          <mat-card-actions align="start" >
+              <a *ngIf="text.github" mat-raised-button href={{text.github}} target="_blank" title={{text.github}}>Go to GitHub page</a>
+          </mat-card-actions>
+      </mat-card-content>
   </mat-card>
 </div>

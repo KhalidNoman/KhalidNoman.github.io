@@ -24,6 +24,7 @@ export class ProjectsComponent implements OnInit {
           projTemp.technologies = this.lines[i++].split(',');
           projTemp.presentation = this.lines[i++];
           projTemp.github = this.lines[i++];
+          projTemp.github = projTemp.github.length<9? false: projTemp.github;
           projTemp.imgs = this.lines[i].split(',');
           this.projs.push(projTemp)
         }
@@ -41,6 +42,6 @@ class proj{
   desc: string = "";
   technologies: string[] = [];
   presentation: string = "";
-  github: string = "";
+  github: any = "";
   imgs: string[] = [];
 }
