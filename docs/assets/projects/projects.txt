@@ -22,7 +22,7 @@ Microsoft Azure was used to host the database as portability was a necessity
 !Java, Java Swing, JavaFX, C#, Xamarin
 !SEPoster.png
 !https://github.com/KhalidNoman/SkinEssentialsPC
-!imgs
+! imgs
 
 !FingerprintApp
 !Group tasked with designing a mobile application capable of assisting law
