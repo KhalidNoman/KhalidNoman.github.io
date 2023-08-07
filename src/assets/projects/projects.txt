@@ -1,10 +1,31 @@
-Language Translator (Compiler)
+Covid 19 Statistics
+!Part of a challenge task to assess full stack development skills
+!VueJS, Javascript, Laravel, php
+!presentation
+!https://github.com/KhalidNoman/Covid19Statistics
+!imgs
+
+!Language Translator (Compiler)
 !Full language translator developed to compile a Java 0 like language
 Used Finite State Automaton, Push Down Automata, and Table-Driven
 Problem Solving
 !Java, NASM, Table Driven Problem solver, Finite State Automata, Push Down Automata
 !presentation
 !https://github.com/KhalidNoman/LanguageTranslator
+!imgs
+
+!Romania Problem
+!Implementation of the common searching algorithms in AI
+!Java
+!presentation
+!https://github.com/KhalidNoman/RomaniaProblem
+!imgs
+
+!Vacuum World
+!Solution to the simplest AI exercise
+!Java
+!presentation
+!https://github.com/KhalidNoman/VacuuumWorld
 !imgs
 
 !Coding Application
